@@ -1,0 +1,7 @@
+ubuntu下mysql安装布局:
+/usr/bin                      客户端程序和mysql_install_db
+/var/lib/mysql            数据库和日志文件
+/var/run/mysqld        服务器
+/etc/mysql               配置文件my.cnf
+/usr/share/mysql       字符集，基准程序和错误消息
+/etc/init.d/mysql        启动mysql服务器
